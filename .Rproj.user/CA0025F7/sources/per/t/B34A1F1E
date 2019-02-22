@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550847200486.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2721083635",
+    "id" : "B34A1F1E",
+    "lastKnownWriteTime" : 1550852648,
+    "last_content_update" : 1550852648778,
+    "path" : "~/Coursera_DataScience/ProgrammingAssignment3/best.R",
+    "project_path" : "best.R",
+    "properties" : {
+        "cursorPosition" : "29,13",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

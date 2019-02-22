@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550842495580.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1895802475",
+    "id" : "4F0D3E78",
+    "lastKnownWriteTime" : 1550852512,
+    "last_content_update" : 1550852512354,
+    "path" : "~/Coursera_DataScience/ProgrammingAssignment3/rankhosp.R",
+    "project_path" : "rankhosp.R",
+    "properties" : {
+        "cursorPosition" : "37,14",
+        "scrollLine" : "8",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
